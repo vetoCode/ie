@@ -1,4 +1,4 @@
-(function($) {
+//(function($) {
   function handleIE() {
     var browser = window.navigator.userAgent;
 
@@ -15,4 +15,4 @@
   }
 
   handleIE();
-})(jQuery);
+//})(jQuery);
