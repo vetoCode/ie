@@ -6,6 +6,7 @@
       $('.ieLabel').attr('display', 'inline');
     } else {
       console.log("I'm not using an IE");
+      $('.ieLabel').hide();
     }
   }
 
