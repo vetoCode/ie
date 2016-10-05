@@ -1,0 +1,28 @@
+@import url(https://fonts.googleapis.com/css?family=Fira+Mono|Fira+Sans:300);
+
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-color: Cornsilk;
+}
+
+h1, h2 {
+  text-align: center;
+  font-family: "Fira Sans", sans-serif;
+}
+
+h1 {
+  letter-spacing: 0.12em;
+  font-weight: 300;
+  font-size: 4rem;
+  color: #222;
+}
+
+h2 {
+  letter-spacing: 0.09em;
+  font-weight: 175;
+  font-size: 2rem;
+  color: #bbb;
+}
