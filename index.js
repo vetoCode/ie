@@ -6,7 +6,7 @@
       console.log("I'm using an IE..");
       $('h1').append("I'm using an IE..");
       //$('h1').innerHTML = "I'm using an IE..";
-      $('h3').hide();
+      $('h3').attr("style", "display: none;");
     } else {
       console.log("I'm not using an IE");
       $('h1').append("I'm not using an IE..");
